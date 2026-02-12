@@ -3,4 +3,4 @@ earliest ver of the game ever
 
 uhh this was made in godot
 pretty simple to understand
-this game is a waste if storage lol
+this game is a waste of storage lol
